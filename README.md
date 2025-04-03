@@ -1,26 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+CareerPilot is an AI-powered career development platform that helps users generate professional resumes, craft compelling cover letters, and prepare for job interviews with the power of AI and Web3. Whether you're a fresh graduate, job seeker, or professional looking to enhance your profile, CareerPilot leverages cutting-edge AI models and blockchain technology to ensure your resume stands out and remains verifiable.
 
-## Getting Started
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🌟 Key Features
+📝 AI Resume Builder
+Generate customized, professional resumes using AI in seconds.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Optimize your resume for ATS (Applicant Tracking Systems) to increase job opportunities.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Choose from various templates tailored to different industries.
 
-## Learn More
+📄 AI Cover Letter Generator
+Create personalized, role-specific cover letters with AI assistance.
+
+Adjust tone, length, and key achievements dynamically.
+
+Improve grammar, readability, and impact using NLP models.
+
+🎤 AI Mock Interview & Coaching
+Practice with AI-powered mock interviews for real-time feedback.
+
+Get job-specific interview questions and AI-generated ideal responses.
+
+Receive performance analysis and improvement suggestions from AI.
 
 To learn more about Next.js, take a look at the following resources:
 
